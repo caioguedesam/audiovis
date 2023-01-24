@@ -1,0 +1,9 @@
+.vim/
+src/third_party/tracy/
+docs/
+build/debug/
+build/profile/
+build/release/
+resources/textures/
+resources/models/
+resources/audio/
